@@ -1,1 +1,1 @@
-<video src="./Assets/gamewmdev - Google Chrome 2022-06-06 11-25-08.mp4"></video>
+<img src="./Assets/MARIO.png" alt="game">
